@@ -18,4 +18,5 @@ scoop install versions/steam
 sudo scoop install games/epic-games-launcher
 scoop install games/minecraft
 
+reg import "$HOME\scoop\apps\7zip\current\install-context.reg"
 reg import "$HOME\scoop\apps\vscode\current\install-context.reg"
