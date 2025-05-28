@@ -14,6 +14,7 @@ scoop install extras/spotify
 scoop install extras/nextcloud
 scoop install extras/thunderbird
 scoop install extras/lazygit
+scoop install extras/hwinfo
 scoop install versions/steam
 sudo scoop install games/epic-games-launcher
 scoop install games/minecraft
